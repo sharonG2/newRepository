@@ -1,0 +1,34 @@
+.title{
+    text-align: center;
+    font-size: 30px;
+}
+
+table{
+    margin-left:auto; 
+    margin-right:auto;
+    table-layout: fixed;
+}
+
+.cell{
+    width: 50px;
+    height: 50px;
+    table-layout: fixed;
+    background-color: rgb(189, 138, 138);
+    color:black;
+    text-align: center;
+}
+
+.divCell{
+    display: none;
+}
+
+.countUpTimer{
+    display: none;
+	font-size: 60px;
+	font-weight: bold;
+    margin: 20px;
+	color: rgb(16, 7, 68);
+    font-family:papyrus;
+}
+
+
